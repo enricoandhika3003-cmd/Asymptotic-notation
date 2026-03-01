@@ -12,6 +12,8 @@ def myfunction(n):
     # O(1)
     for i in range(0,100):
         print("Third loop")
+    
+    print("Total Time Complexity = O(n)")
 
 # O(n)
 myfunction(2)
